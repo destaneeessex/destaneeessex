@@ -1,6 +1,6 @@
 >Hi, I'm Destanee, an Entry Level IT Specialist
 <h2>👨‍💻 Information Technology Projects:</h2>
-- <b>osTicket (Help Desk Ticketing System)</b>
+-<b>osTicket (Help Desk Ticketing System)</b>
 
   - [osTicket: Post-Installation Configuration](https://github.com/destaneeessex/post-install-config)
  
